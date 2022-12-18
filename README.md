@@ -1,2 +1,2 @@
-# professorMirror
-A rateMyProfessor type of website for India
+# Prof-Review
+Let's be honest, having a basic idea about your professors isn't that bad...
