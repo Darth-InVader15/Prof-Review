@@ -11,7 +11,8 @@ const cors = require("cors");
 const app =express();
 
 
-//Importing My routes
+//Importing My routes, routes are the endpoints
+
 const authRoute = require('./routes/auth');
 const profRoute = require('./routes/professor');
 
